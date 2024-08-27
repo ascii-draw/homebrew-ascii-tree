@@ -1,4 +1,4 @@
-class AsciiTree < Formula
+class Astree < Formula
     desc "A command line tool for drawing tree structures with ascii characters."
     homepage "https://github.com/yzhong52/ascii_tree"
     url "https://github.com/yzhong52/ascii_tree/releases/download/0.2.9/astree-0.2.9.tar.gz"
